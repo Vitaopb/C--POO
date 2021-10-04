@@ -1,0 +1,7 @@
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\obj\Debug\AnimalExtimação.csproj.AssemblyReference.cache
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\obj\Debug\AnimalExtimação.csproj.CoreCompileInputs.cache
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\bin\Debug\AnimalExtimação.exe.config
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\bin\Debug\AnimalExtimação.exe
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\bin\Debug\AnimalExtimação.pdb
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\obj\Debug\AnimalExtimação.exe
+C:\Users\vic_g\source\repos\AnimalExtimação\AnimalExtimação\obj\Debug\AnimalExtimação.pdb
