@@ -1,0 +1,7 @@
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\bin\Debug\WalkingGame-Console.exe.config
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\bin\Debug\WalkingGame-Console.exe
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\bin\Debug\WalkingGame-Console.pdb
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\obj\Debug\WalkingGame-Console.csproj.AssemblyReference.cache
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\obj\Debug\WalkingGame-Console.csproj.CoreCompileInputs.cache
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\obj\Debug\WalkingGame-Console.exe
+C:\Users\vic_g\source\repos\WalkingGame-Console\WalkingGame-Console\obj\Debug\WalkingGame-Console.pdb
